@@ -1,0 +1,8 @@
+// NAME: The Eyes Have It
+// SOURCE: https://secretlair.wizards.com/us/product/1245628
+// DATE: 2026-05-12
+1 [SLD] Counterbalance
+1 [SLD] Gitaxian Probe
+1 [SLD] Opt
+1 [SLD] Otherworldly Gaze
+1 [SLD] Baleful Strix

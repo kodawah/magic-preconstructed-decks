@@ -1,0 +1,9 @@
+// NAME: My Little Pony: Friendship is Magic Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250418
+// DATE: 2026-05-12
+1 [SLD] Generous Gift [foil]
+1 [SLD] Reconnaissance Mission [foil]
+1 [SLD] Radiate [foil]
+1 [SLD] Defense of the Heart [foil]
+1 [SLD] Arcane Signet [foil]
+1 [SLD] Sol Ring [foil]

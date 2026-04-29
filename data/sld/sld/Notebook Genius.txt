@@ -1,0 +1,7 @@
+// NAME: Notebook Genius
+// SOURCE: https://secretlair.wizards.com/us/product/1250413
+// DATE: 2026-05-12
+1 [SLD] Lier, Disciple of the Drowned
+1 [SLD] Bloodghast
+1 [SLD] Storm-Kiln Artist
+1 [SLD] Anhelo, the Painter
