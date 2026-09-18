@@ -1,4 +1,5 @@
 // NAME: The Strange Sands: Island Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1016904
+// MSRP: $ 39.99
 // DATE: 2025-01-15
 10 [SLD:1479] Island [foil]

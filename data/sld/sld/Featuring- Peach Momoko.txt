@@ -1,5 +1,6 @@
 // NAME: Featuring: Peach Momoko
 // SOURCE: https://secretlair.wizards.com/us/product/1018447
+// MSRP: $ 29.99
 // DATE: 2024-10-01
 1 [SLD:1667] Aetherize
 1 [SLD:1668] Drown in Dreams

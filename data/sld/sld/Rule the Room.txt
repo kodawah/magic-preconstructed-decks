@@ -1,5 +1,6 @@
 // NAME: Rule the Room
 // SOURCE: https://secretlair.wizards.com/us/product/762464
+// MSRP: $ 29.99
 // DATE: 2022-09-13
 // DISPLAY: Also included one foil extended art sliver: [SLD:654] Predatory Sliver, or [SLD:667] Opaline Sliver.
 1 [SLD:497] Brimaz, King of Oreskos

@@ -1,5 +1,6 @@
 // NAME: The Beauty of the Beasts
 // SOURCE: https://secretlair.wizards.com/us/product/924639
+// MSRP: $ 29.99
 // DATE: 2024-02-23
 1 [SLD:1487] Felidar Guardian
 1 [SLD:1488] Peregrine Drake

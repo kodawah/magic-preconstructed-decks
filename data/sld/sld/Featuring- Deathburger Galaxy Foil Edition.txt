@@ -1,5 +1,6 @@
 // NAME: Featuring: Deathburger Galaxy Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1246430
+// MSRP: $ 59.99
 // DATE: 2025-07-29
 1 [SLD:2102] Ethersworn Canonist [foil]
 1 [SLD:2103] Goblin Engineer [foil]

@@ -1,5 +1,6 @@
 // NAME: Flower Power
 // SOURCE: https://secretlair.wizards.com/us/product/1246580
+// MSRP: $ 29.99
 // DATE: 2025-10-20
 1 [SLD:1945] Plains
 1 [SLD:1946] Island

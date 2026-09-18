@@ -1,5 +1,6 @@
 // NAME: Pick 'em & Stick 'em
 // SOURCE: https://secretlair.wizards.com/us/product/1151497
+// MSRP: $ 29.98
 // DATE: 2025-03-25
 1 [SLD:1428] Thalia, Heretic Cathar
 1 [SLD:1429] Clever Impersonator

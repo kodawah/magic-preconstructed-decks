@@ -1,5 +1,6 @@
 // NAME: Showcase: Zendikar Revisited
 // SOURCE: https://secretlair.wizards.com/us/product/611993
+// MSRP: $ 29.99
 // DATE: 2020-09-25
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:518] Nissa, [SLD:532] Kiora, or [SLD:533] Nahiri
 1 [SLD:154] Admonition Angel

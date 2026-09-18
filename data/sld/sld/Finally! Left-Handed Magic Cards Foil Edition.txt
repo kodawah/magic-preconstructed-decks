@@ -1,5 +1,6 @@
 // NAME: Finally! Left-Handed Magic Cards Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/724659
+// MSRP: $ 39.99
 // DATE: 2022-08-05
 1 [SLD:9995] Garruk, Caller of Beasts [foil]
 1 [SLD:9996] Rograkh, Son of Rohgahh [foil]

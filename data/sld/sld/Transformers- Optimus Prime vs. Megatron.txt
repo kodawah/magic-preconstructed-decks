@@ -1,5 +1,6 @@
 // NAME: Transformers: Optimus Prime vs. Megatron
 // SOURCE: https://secretlair.wizards.com/us/product/810224
+// MSRP: $ 29.99
 // DATE: 2022-12-19
 1 [SLD:1079a] Blightsteel Colossus
 1 [SLD:1080a] Doubling Cube

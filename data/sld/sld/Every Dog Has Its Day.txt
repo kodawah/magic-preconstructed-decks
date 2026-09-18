@@ -1,5 +1,6 @@
 // NAME: Every Dog Has Its Day
 // SOURCE: https://secretlair.wizards.com/us/product/611547
+// MSRP: $ 29.99
 // DATE: 2020-08-26
 1 [SLD:96] Rest in Peace
 1 [SLD:97] Dig Through Time

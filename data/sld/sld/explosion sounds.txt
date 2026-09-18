@@ -1,5 +1,6 @@
 // NAME: explosion sounds
 // SOURCE: https://secretlair.wizards.com/us/product/594784
+// MSRP: $ 29.99
 // DATE: 2019-12-07
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:503] Gideon, [SLD:521] Domri, [SLD:523] Ral, [SLD:527] Angrath, or [SLD:533] Nahiri
 1 [SLD:17] Goblin Bushwhacker

@@ -1,5 +1,6 @@
 // NAME: Stranger Things Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/687520
+// MSRP: $ 49.99
 // DATE: 2022-01-28
 1 [SLD:340] Arvinox, the Mind Flail [foil]
 1 [SLD:341] Sophina, Spearsage Deserter [foil]

@@ -1,5 +1,6 @@
 // NAME: Sheldon's Spellbook
 // SOURCE: https://secretlair.wizards.com/us/product/924736
+// MSRP: $ 39.99
 // DATE: 2024-07-03
 1 [SLD:1691] Teferi's Protection
 1 [SLD:1692] Eladamri's Vineyard

@@ -1,5 +1,6 @@
 // NAME: Warhammer 40,000: Orks
 // SOURCE: https://secretlair.wizards.com/us/product/771994
+// MSRP: $ 29.99
 // DATE: 2022-12-05
 1 [SLD:1025] Merciless Executioner
 1 [SLD:1026] Aggravated Assault

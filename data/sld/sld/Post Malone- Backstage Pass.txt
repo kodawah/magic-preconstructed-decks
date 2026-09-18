@@ -1,5 +1,6 @@
 // NAME: Post Malone: Backstage Pass
 // SOURCE: https://secretlair.wizards.com/us/product/772015
+// MSRP: $ 29.99
 // DATE: 2022-12-05
 1 [SLD:1186] K'rrik, Son of Yawgmoth
 1 [SLD:1187] Bolas's Citadel

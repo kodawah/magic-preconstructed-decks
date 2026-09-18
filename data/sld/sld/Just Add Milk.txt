@@ -1,5 +1,6 @@
 // NAME: Just Add Milk
 // SOURCE: https://secretlair.wizards.com/us/product/810230
+// MSRP: $ 29.99
 // DATE: 2022-12-19
 // DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:681-688].
 1 [SLD:1122a] Ulamog, the Ceaseless Hunger

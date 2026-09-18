@@ -1,5 +1,6 @@
 // NAME: Ponies: The Galloping 2
 // SOURCE: https://secretlair.wizards.com/us/product/866433
+// MSRP: $ 39.99
 // DATE: 2024-03-14
 1 [SLD:1537] Applejack
 1 [SLD:1538] Fluttershy

@@ -1,5 +1,6 @@
 // NAME: Showcase: Duskmourn Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018460
+// MSRP: $ 39.99
 // DATE: 2024-10-01
 1 [SLD:1758] Phyrexian Metamorph [foil]
 1 [SLD:1759] Cauldron Familiar [foil]

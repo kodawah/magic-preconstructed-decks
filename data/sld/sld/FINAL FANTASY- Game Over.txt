@@ -1,5 +1,6 @@
 // NAME: FINAL FANTASY: Game Over
 // SOURCE: https://secretlair.wizards.com/us/product/1245651
+// MSRP: $ 29.99
 // DATE: 2025-06-10
 1 [SLD:1858] Day of Judgment
 1 [SLD:1859] Temporal Extortion

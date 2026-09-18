@@ -1,5 +1,6 @@
 // NAME: Masters of the Universe: She-Ra, Princess of Power Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254734
+// MSRP: $ 39.99
 // DATE: 2026-09-29
 1 [SLD:2778] Sisay, Weatherlight Captain [foil]
 1 [SLD:2779] Silence [foil]

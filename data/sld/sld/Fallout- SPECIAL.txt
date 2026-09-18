@@ -1,5 +1,6 @@
 // NAME: Fallout: SPECIAL
 // SOURCE: https://secretlair.wizards.com/us/product/928727
+// MSRP: $ 29.99
 // DATE: 2024-04-15
 1 [SLD:1632] Steelshaper's Gift
 1 [SLD:1633] Propaganda

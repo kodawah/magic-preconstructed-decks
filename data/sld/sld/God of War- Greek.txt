@@ -1,5 +1,6 @@
 // NAME: God of War: Greek
 // SOURCE: https://secretlair.wizards.com/us/product/1246540
+// MSRP: $ 39.99
 // DATE: 2025-11-06
 1 [SLD:2207] Kratos, God of War
 1 [SLD:2208] World at War

@@ -1,5 +1,6 @@
 // NAME: Stardew Valley: Welcome to Stardew Valley
 // SOURCE: https://secretlair.wizards.com/us/product/1253586
+// MSRP: $ 39.99
 // DATE: 2026-08-03
 1 [SLD:2801] Stardew Valley
 1 [SLD:2802] Wedding Ring

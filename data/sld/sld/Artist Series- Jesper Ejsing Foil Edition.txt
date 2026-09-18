@@ -1,5 +1,6 @@
 // NAME: Artist Series: Jesper Ejsing Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151109
+// MSRP: $ 39.99
 // DATE: 2025-02-11
 1 [SLD:1550] Sun Titan [foil]
 1 [SLD:1551] Breeches, Eager Pillager [foil]

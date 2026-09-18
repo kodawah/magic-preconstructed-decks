@@ -1,5 +1,6 @@
 // NAME: Garfield: As Intended Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1252563
+// MSRP: $ 39.99
 // DATE: 2026-06-16
 1 [SLD:2663] Swords to Plowshares [foil]
 1 [SLD:2664] Counterspell [foil]

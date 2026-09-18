@@ -1,5 +1,6 @@
 // NAME: Totally Spaced Out Galaxy Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/772013
+// MSRP: $ 49.99
 // DATE: 2022-12-05
 // DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:682-684]
 1 [SLD:469] Ash Barrens [foil]

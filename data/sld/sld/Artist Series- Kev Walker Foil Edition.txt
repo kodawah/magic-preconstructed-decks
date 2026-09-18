@@ -1,5 +1,6 @@
 // NAME: Artist Series: Kev Walker Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/865793
+// MSRP: $ 39.99
 // DATE: 2023-09-15
 1 [SLD:1173] Faeburrow Elder [foil]
 1 [SLD:1174] Carnage Tyrant [foil]

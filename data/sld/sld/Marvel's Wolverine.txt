@@ -1,5 +1,6 @@
 // NAME: Marvel's Wolverine
 // SOURCE: https://secretlair.wizards.com/us/product/1018562
+// MSRP: $ 39.99
 // DATE: 2024-11-05
 1 [SLD:1737] Wolverine, Best There Is
 1 [SLD:1738] Berserk

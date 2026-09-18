@@ -1,5 +1,6 @@
 // NAME: Flower Power Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1246579
+// MSRP: $ 39.99
 // DATE: 2025-10-20
 1 [SLD:1945] Plains [foil]
 1 [SLD:1946] Island [foil]

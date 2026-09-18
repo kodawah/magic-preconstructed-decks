@@ -1,5 +1,6 @@
 // NAME: Nature Is Adorable
 // SOURCE: https://secretlair.wizards.com/us/product/813931
+// MSRP: $ 29.99
 // DATE: 2023-04-28
 // DISPLAY: Also includes one foil extended art sliver [SLD:610-667] or foil borderless Shadowborn Apostles [SLD:681-688]
 1 [SLD:1281] Joraga Treespeaker

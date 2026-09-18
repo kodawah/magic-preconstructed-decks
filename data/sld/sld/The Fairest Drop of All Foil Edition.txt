@@ -1,5 +1,6 @@
 // NAME: The Fairest Drop of All Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1107223
+// MSRP: $ 39.99
 // DATE: 2024-12-10
 1 [SLD:1325a] Estrid's Invocation [foil]
 1 [SLD:1326a] Steely Resolve [foil]

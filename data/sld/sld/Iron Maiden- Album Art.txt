@@ -1,5 +1,6 @@
 // NAME: Iron Maiden: Album Art
 // SOURCE: https://secretlair.wizards.com/us/product/1247703
+// MSRP: $ 29.99
 // DATE: 2025-10-27
 1 [SLD:2187] Lethal Scheme
 1 [SLD:2188] Grave Titan

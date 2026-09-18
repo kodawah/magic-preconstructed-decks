@@ -1,5 +1,6 @@
 // NAME: Transformers: One Shall Stand, One Shall Fall Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/810221
+// MSRP: $ 39.99
 // DATE: 2022-12-19
 1 [SLD:1088] Plains [foil]
 1 [SLD:1089] Island [foil]

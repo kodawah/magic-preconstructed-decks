@@ -1,5 +1,6 @@
 // NAME: Artist Series: Wayne Reynolds
 // SOURCE: https://secretlair.wizards.com/us/product/724658
+// MSRP: $ 29.99
 // DATE: 2022-08-05
 1 [SLD:461] Sram, Senior Edificer
 1 [SLD:462] Balthor the Defiled

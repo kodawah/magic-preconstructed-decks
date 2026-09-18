@@ -1,5 +1,6 @@
 // NAME: Nuestra Magia
 // SOURCE: https://secretlair.wizards.com/us/product/1245720
+// MSRP: $ 39.99
 // DATE: 2025-06-17
 1 [SLD:2057] Tireless Provisioner
 1 [SLD:2058] Sylvan Library

@@ -1,5 +1,6 @@
 // NAME: Featuring: Mitsuhiro Arita
 // SOURCE: https://secretlair.wizards.com/us/product/1151116
+// MSRP: $ 29.99
 // DATE: 2025-02-11
 1 [SLD:1877] Light-Paws, Emperor's Voice
 1 [SLD:1878] Murktide Regent

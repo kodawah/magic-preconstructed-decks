@@ -1,5 +1,6 @@
 // NAME: Teenage Mutant Ninja Turtles: The Last Ronin
 // SOURCE: https://secretlair.wizards.com/us/product/1250000
+// MSRP: $ 29.99
 // DATE: 2026-03-03
 1 [SLD:2372] Settle the Wreckage
 1 [SLD:2373] Mental Misstep

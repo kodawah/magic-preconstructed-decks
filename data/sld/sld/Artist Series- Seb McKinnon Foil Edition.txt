@@ -1,5 +1,6 @@
 // NAME: Artist Series: Seb McKinnon Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/615007
+// MSRP: $ 39.99
 // DATE: 2021-03-15
 1 [SLD:119] Swamp [foil]
 1 [SLD:120] Sower of Temptation [foil]

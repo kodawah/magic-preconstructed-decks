@@ -1,5 +1,6 @@
 // NAME: Featuring: Phoebe Wahl
 // SOURCE: https://secretlair.wizards.com/us/product/928729
+// MSRP: $ 29.99
 // DATE: 2024-04-15
 1 [SLD:1627] Swords to Plowshares
 1 [SLD:1628] Faerie Artisans

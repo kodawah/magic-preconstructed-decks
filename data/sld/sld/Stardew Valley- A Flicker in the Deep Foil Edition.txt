@@ -1,5 +1,6 @@
 // NAME: Stardew Valley: A Flicker in the Deep Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1253581
+// MSRP: $ 39.99
 // DATE: 2026-08-03
 1 [SLD:2814] Atsushi, the Blazing Sky [foil]
 1 [SLD:2815] Mitotic Slime [foil]

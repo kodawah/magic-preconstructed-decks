@@ -1,5 +1,6 @@
 // NAME: SpongeBob SquarePants: Internet Sensation Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151486
+// MSRP: $ 39.98
 // DATE: 2025-03-25
 1 [SLD:1933] Counterspell [foil]
 1 [SLD:1934] Daze [foil]

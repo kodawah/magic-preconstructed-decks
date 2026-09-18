@@ -1,5 +1,6 @@
 // NAME: Dungeons & Dragons: Astarion's Thirst Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1016838
+// MSRP: $ 39.99
 // DATE: 2024-08-28
 1 [SLD:1797] Astarion, the Decadent [foil]
 1 [SLD:1798] Exquisite Blood [foil]

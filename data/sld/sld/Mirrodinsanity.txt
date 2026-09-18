@@ -1,5 +1,6 @@
 // NAME: Mirrodinsanity
 // SOURCE: https://secretlair.wizards.com/us/product/687519
+// MSRP: $ 29.99
 // DATE: 2022-01-28
 1 [SLD:300] Ancient Den
 1 [SLD:301] Seat of the Synod

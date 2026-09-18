@@ -1,5 +1,6 @@
 // NAME: Ghostbusters: Slimer
 // SOURCE: https://secretlair.wizards.com/us/product/1018457
+// MSRP: $ 29.99
 // DATE: 2024-10-01
 1 [SLD:1773] The Mimeoplasm
 1 [SLD:1774] Trickbind

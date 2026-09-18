@@ -1,5 +1,6 @@
 // NAME: Imaginary Friends
 // SOURCE: https://secretlair.wizards.com/us/product/766558
+// MSRP: $ 29.99
 // DATE: 2022-10-25
 // DISPLAY: Also includes one random foil extended art sliver [SLD:610-667].
 1 [SLD:1048] Matter Reshaper

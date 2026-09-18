@@ -1,5 +1,6 @@
 // NAME: The Tokyo Lands
 // SOURCE: https://secretlair.wizards.com/us/product/762466
+// MSRP: $ 29.99
 // DATE: 2022-09-13
 // DISPLAY: Also includes one foil Jumpstart basic land [SLD:540-579].
 1 [SLD:46] Plains

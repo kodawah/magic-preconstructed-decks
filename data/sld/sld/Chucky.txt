@@ -1,5 +1,6 @@
 // NAME: Chucky
 // SOURCE: https://secretlair.wizards.com/us/product/1018453
+// MSRP: $ 29.99
 // DATE: 2024-10-01
 1 [SLD:1807a] Kardur, Doomscourge
 1 [SLD:1808] Phyrexian Reclamation

@@ -1,5 +1,6 @@
 // NAME: Artist Series: Alayna Danner Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/813938
+// MSRP: $ 39.99
 // DATE: 2023-04-28
 1 [SLD:1289] Linvala, Keeper of Silence [foil]
 1 [SLD:1290] Sunblast Angel [foil]

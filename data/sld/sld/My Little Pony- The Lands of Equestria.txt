@@ -1,5 +1,6 @@
 // NAME: My Little Pony: The Lands of Equestria
 // SOURCE: https://secretlair.wizards.com/us/product/1250421
+// MSRP: $ 29.99
 // DATE: 2026-05-12
 2 [SLD:2540] Plains
 2 [SLD:2541] Island

@@ -1,5 +1,6 @@
 // NAME: Read the Fine Print Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/687512
+// MSRP: $ 39.99
 // DATE: 2022-01-28
 1 [SLD:159] Demonlord Belzenlok [foil]
 1 [SLD:160] Griselbrand [foil]

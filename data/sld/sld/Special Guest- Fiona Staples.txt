@@ -1,5 +1,6 @@
 // NAME: Special Guest: Fiona Staples
 // SOURCE: https://secretlair.wizards.com/us/product/647955
+// MSRP: $ 29.99
 // DATE: 2021-10-29
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:513] Jaya or [SLD:514] Sarkhan
 1 [SLD:190] Soul-Scar Mage

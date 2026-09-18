@@ -1,5 +1,6 @@
 // NAME: Artist Series: Phil Foglio
 // SOURCE: https://secretlair.wizards.com/us/product/1245655
+// MSRP: $ 29.99
 // DATE: 2025-06-10
 1 [SLD:2024] Goblin Bombardment
 1 [SLD:2025] Orcish Lumberjack

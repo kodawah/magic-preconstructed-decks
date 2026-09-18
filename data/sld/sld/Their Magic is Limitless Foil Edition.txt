@@ -1,5 +1,6 @@
 // NAME: Their Magic is Limitless Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1251787
+// MSRP: $ 49.99
 // DATE: 2026-07-22
 1 [SLD:2678] Dark Ritual [foil]
 1 [SLD:2679] Cultivate [foil]

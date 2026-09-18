@@ -1,5 +1,6 @@
 // NAME: Dan Frazier is Back: The Allied Signets
 // SOURCE: https://secretlair.wizards.com/us/product/647961
+// MSRP: $ 29.99
 // DATE: 2021-10-29
 // DISPLAY: All drops in the All Natural, Totally Refreshing superdrop have a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of their normal bonus card.
 1 [SLD:286] Azorius Signet

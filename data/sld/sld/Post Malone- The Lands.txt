@@ -1,5 +1,6 @@
 // NAME: Post Malone: The Lands
 // SOURCE: https://secretlair.wizards.com/us/product/772017
+// MSRP: $ 29.99
 // DATE: 2022-12-05
 1 [SLD:1190] Plains
 1 [SLD:1191] Island

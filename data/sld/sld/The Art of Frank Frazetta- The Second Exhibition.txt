@@ -1,5 +1,6 @@
 // NAME: The Art of Frank Frazetta: The Second Exhibition
 // SOURCE: https://secretlair.wizards.com/us/product/1161078
+// MSRP: $ 29.99
 // DATE: 2025-06-10
 1 [SLD:1980] Deadly Dispute
 1 [SLD:1981a] Murderous Rider

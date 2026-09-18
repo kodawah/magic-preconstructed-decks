@@ -1,5 +1,6 @@
 // NAME: Pixel Perfect
 // SOURCE: https://secretlair.wizards.com/us/product/1018598
+// MSRP: $ 39.99
 // DATE: 2024-10-15
 1 [SLD:1821] Mana Geyser
 1 [SLD:1822] Lightning Bolt

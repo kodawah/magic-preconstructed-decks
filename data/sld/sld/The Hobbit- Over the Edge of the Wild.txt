@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Over the Edge of the Wild
 // SOURCE: https://secretlair.wizards.com/us/product/1254159
+// MSRP: $ 29.99
 // DATE: 2026-08-18
 1 [SLD:2552] Cloudshift
 1 [SLD:2553] Tocasia's Welcome

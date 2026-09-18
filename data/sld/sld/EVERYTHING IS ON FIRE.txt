@@ -1,5 +1,6 @@
 // NAME: EVERYTHING IS ON FIRE
 // SOURCE: https://secretlair.wizards.com/us/product/1161311
+// MSRP: $ 29.99
 // DATE: 2025-05-13
 1 [SLD:2047] Chain Lightning
 1 [SLD:2048] Dragon's Rage Channeler

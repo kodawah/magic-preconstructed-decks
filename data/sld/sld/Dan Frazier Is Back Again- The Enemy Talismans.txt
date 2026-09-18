@@ -1,5 +1,6 @@
 // NAME: Dan Frazier Is Back Again: The Enemy Talismans
 // SOURCE: https://secretlair.wizards.com/us/product/766556
+// MSRP: $ 29.99
 // DATE: 2022-10-25
 1 [SLD:1057] Talisman of Hierarchy
 1 [SLD:1058] Talisman of Creativity

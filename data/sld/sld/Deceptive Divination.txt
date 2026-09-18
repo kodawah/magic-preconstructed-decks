@@ -1,5 +1,6 @@
 // NAME: Deceptive Divination
 // SOURCE: https://secretlair.wizards.com/us/product/924641
+// MSRP: $ 29.99
 // DATE: 2024-02-23
 1 [SLD:1518] Wall of Omens
 1 [SLD:1519] Circular Logic

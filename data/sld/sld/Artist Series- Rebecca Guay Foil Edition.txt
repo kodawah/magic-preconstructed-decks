@@ -1,5 +1,6 @@
 // NAME: Artist Series: Rebecca Guay Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/813934
+// MSRP: $ 39.99
 // DATE: 2023-04-28
 1 [SLD:1251] Cleansing Nova [foil]
 1 [SLD:1252] Serra the Benevolent [foil]

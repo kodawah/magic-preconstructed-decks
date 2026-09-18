@@ -1,5 +1,6 @@
 // NAME: Assassin's Creed: Da Vinci's Designs
 // SOURCE: https://secretlair.wizards.com/us/product/1001706
+// MSRP: $ 29.99
 // DATE: 2024-07-10
 1 [SLD:1570] Blade of Selves
 1 [SLD:1571] Conqueror's Flail

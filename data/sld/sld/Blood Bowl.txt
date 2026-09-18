@@ -1,5 +1,6 @@
 // NAME: Blood Bowl
 // SOURCE: https://secretlair.wizards.com/us/product/771998
+// MSRP: $ 29.99
 // DATE: 2022-12-05
 1 [SLD:1035] Approach of the Second Sun
 1 [SLD:1036] Rewind

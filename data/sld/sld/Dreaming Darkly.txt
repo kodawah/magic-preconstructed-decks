@@ -1,5 +1,6 @@
 // NAME: Dreaming Darkly
 // SOURCE: https://secretlair.wizards.com/us/product/1247709
+// MSRP: $ 29.99
 // DATE: 2025-10-27
 1 [SLD:2171] Glen Elendra Archmage
 1 [SLD:2172] Guardian Project

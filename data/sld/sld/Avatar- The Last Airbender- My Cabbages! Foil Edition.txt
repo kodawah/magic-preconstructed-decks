@@ -1,5 +1,6 @@
 // NAME: Avatar: The Last Airbender: My Cabbages! Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1248507
+// MSRP: $ 39.99
 // DATE: 2025-11-18
 1 [SLD:2295] Chain of Vapor [foil]
 1 [SLD:2296] Meltdown [foil]

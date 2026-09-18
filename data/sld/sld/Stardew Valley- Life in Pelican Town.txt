@@ -1,5 +1,6 @@
 // NAME: Stardew Valley: Life in Pelican Town
 // SOURCE: https://secretlair.wizards.com/us/product/1253584
+// MSRP: $ 29.99
 // DATE: 2026-08-03
 1 [SLD:2809] Crop Rotation
 1 [SLD:2810] Fountainport

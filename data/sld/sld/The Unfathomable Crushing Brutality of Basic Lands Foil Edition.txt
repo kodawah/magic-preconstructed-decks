@@ -1,5 +1,6 @@
 // NAME: The Unfathomable Crushing Brutality of Basic Lands Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/629365
+// MSRP: $ 39.99
 // DATE: 2021-04-13
 // DISPLAY: Also includes one foil Jumpstart basic land: [SLD:558] Swamp, [SLD:561] Swamp, or [SLD:563] Swamp
 1 [SLD:239] Plains [foil]

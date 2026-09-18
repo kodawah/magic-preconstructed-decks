@@ -1,5 +1,6 @@
 // NAME: Marvel's Deadpool
 // SOURCE: https://secretlair.wizards.com/us/product/1151231
+// MSRP: $ 39.99
 // DATE: 2025-04-02
 1 [SLD:1753] Deadpool, Trading Card
 1 [SLD:1754] Deadly Rollick

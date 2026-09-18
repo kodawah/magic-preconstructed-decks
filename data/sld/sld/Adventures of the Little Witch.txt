@@ -1,5 +1,6 @@
 // NAME: Adventures of the Little Witch
 // SOURCE: https://secretlair.wizards.com/us/product/1107793
+// MSRP: $ 29.99
 // DATE: 2025-04-23
 1 [SLD:1892] Secret Rendezvous
 1 [SLD:1893] Serenity

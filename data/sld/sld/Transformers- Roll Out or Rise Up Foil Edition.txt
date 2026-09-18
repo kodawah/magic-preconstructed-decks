@@ -1,5 +1,6 @@
 // NAME: Transformers: Roll Out or Rise Up Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/810225
+// MSRP: $ 39.99
 // DATE: 2022-12-19
 1 [SLD:1082] True Conviction [foil]
 1 [SLD:1083] Dramatic Reversal [foil]

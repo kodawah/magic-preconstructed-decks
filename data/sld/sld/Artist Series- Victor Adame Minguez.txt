@@ -1,5 +1,6 @@
 // NAME: Artist Series: Victor Adame Minguez
 // SOURCE: https://secretlair.wizards.com/us/product/766560
+// MSRP: $ 29.99
 // DATE: 2022-10-25
 1 [SLD:1044] Knight Exemplar
 1 [SLD:1045] Knight of the White Orchid

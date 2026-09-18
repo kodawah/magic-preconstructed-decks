@@ -1,5 +1,6 @@
 // NAME: KEXP: Where the Music Matters
 // SOURCE: https://secretlair.wizards.com/us/product/1161300
+// MSRP: $ 29.99
 // DATE: 2025-05-13
 2 [SLD:2076] Plains
 2 [SLD:2077] Island

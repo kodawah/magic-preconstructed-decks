@@ -1,5 +1,6 @@
 // NAME: Artist Series: Nils Hamm Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/766561
+// MSRP: $ 39.99
 // DATE: 2022-10-25
 1 [SLD:1093] Deepglow Skate [foil]
 1 [SLD:1094] Tireless Tracker [foil]

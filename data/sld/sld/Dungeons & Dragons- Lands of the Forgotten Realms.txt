@@ -1,5 +1,6 @@
 // NAME: Dungeons & Dragons: Lands of the Forgotten Realms
 // SOURCE: https://secretlair.wizards.com/us/product/1249720
+// MSRP: $ 29.99
 // DATE: 2026-03-02
 2 [SLD:2509] Plains
 2 [SLD:2510] Island

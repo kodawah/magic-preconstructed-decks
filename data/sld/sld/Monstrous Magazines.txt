@@ -1,5 +1,6 @@
 // NAME: Monstrous Magazines
 // SOURCE: https://secretlair.wizards.com/us/product/1018459
+// MSRP: $ 29.99
 // DATE: 2024-10-01
 1 [SLD:1763] Doom Whisperer
 1 [SLD:1764] Ravenous Chupacabra

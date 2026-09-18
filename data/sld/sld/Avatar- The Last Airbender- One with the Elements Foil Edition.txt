@@ -1,5 +1,6 @@
 // NAME: Avatar: The Last Airbender: One with the Elements Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1248509
+// MSRP: $ 39.99
 // DATE: 2025-11-18
 1 [SLD:2300] Silence [foil]
 1 [SLD:2301] Preordain [foil]

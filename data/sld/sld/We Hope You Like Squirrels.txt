@@ -1,5 +1,6 @@
 // NAME: We Hope You Like Squirrels
 // SOURCE: https://secretlair.wizards.com/us/product/615010
+// MSRP: $ 39.99
 // DATE: 2021-03-15
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:516] Arlinn, [SLD:517] Jiang Yanggu, [SLD:518] Nissa, or [SLD:519] Vivien
 1 [SLD:195] Chatter of the Squirrel [foil]

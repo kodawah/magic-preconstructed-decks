@@ -1,5 +1,6 @@
 // NAME: Artist Series: Jesper Ejsing
 // SOURCE: https://secretlair.wizards.com/us/product/1151110
+// MSRP: $ 29.99
 // DATE: 2025-02-11
 1 [SLD:1550] Sun Titan
 1 [SLD:1551] Breeches, Eager Pillager

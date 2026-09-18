@@ -1,5 +1,6 @@
 // NAME: SpongeBob SquarePants: Legends of Bikini Bottom
 // SOURCE: https://secretlair.wizards.com/us/product/1151491
+// MSRP: $ 29.98
 // DATE: 2025-03-25
 1 [SLD:1926] Skrelv, Defector Mite
 1 [SLD:1927] Charix, the Raging Isle

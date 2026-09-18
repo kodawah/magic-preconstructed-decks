@@ -1,4 +1,5 @@
 // NAME: The Strange Sands: Swamp
 // SOURCE: https://secretlair.wizards.com/us/product/1016907
+// MSRP: $ 29.99
 // DATE: 2025-01-15
 10 [SLD:1480] Swamp

@@ -1,5 +1,6 @@
 // NAME: Aether Drifters
 // SOURCE: https://secretlair.wizards.com/us/product/1151118
+// MSRP: $ 29.99
 // DATE: 2025-02-11
 1 [SLD:1964a] Parhelion II
 1 [SLD:1965a] Mechtitan Core

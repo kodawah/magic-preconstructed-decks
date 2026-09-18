@@ -1,5 +1,6 @@
 // NAME: Lofi Girl: Beats to Cast To Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254381
+// MSRP: $ 39.99
 // DATE: 2026-09-01
 1 [SLD:2821] Felidar Guardian [foil]
 1 [SLD:2822] Starfield of Nyx [foil]

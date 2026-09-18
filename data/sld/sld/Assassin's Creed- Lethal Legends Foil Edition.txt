@@ -1,5 +1,6 @@
 // NAME: Assassin's Creed: Lethal Legends Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1001707
+// MSRP: $ 39.99
 // DATE: 2024-07-10
 1 [SLD:1557] Najeela, the Blade-Blossom [foil]
 1 [SLD:1558] Kelsien, the Plague [foil]

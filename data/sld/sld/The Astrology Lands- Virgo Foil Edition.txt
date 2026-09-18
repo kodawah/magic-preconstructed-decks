@@ -1,5 +1,6 @@
 // NAME: The Astrology Lands: Virgo Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/769335
+// MSRP: $ 39.99
 // DATE: 2022-10-25
 // DISPLAY: Also includes one of: foil Jumpstart basic land [SLD:540-579], foil [SLD:593] Persistent Petitioners, or foil extended art Sliver [SLD:610-668]
 5 [SLD:392] Island [foil]

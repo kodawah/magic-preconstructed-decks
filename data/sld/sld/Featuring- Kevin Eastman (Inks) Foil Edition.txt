@@ -1,5 +1,6 @@
 // NAME: Featuring: Kevin Eastman (Inks) Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249995
+// MSRP: $ 39.99
 // DATE: 2026-03-03
 1 [SLD:2354] Loxodon Gatekeeper [foil]
 1 [SLD:2355] Sakashima's Student [foil]

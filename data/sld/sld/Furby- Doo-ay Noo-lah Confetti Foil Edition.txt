@@ -1,5 +1,6 @@
 // NAME: Furby: Doo-ay Noo-lah Confetti Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247715
+// MSRP: $ 59.99
 // DATE: 2025-10-27
 1 [SLD:2326] Distant Melody [foil]
 1 [SLD:2327] Explore [foil]

@@ -1,5 +1,6 @@
 // NAME: Furby: Furbys: The Gathering Confetti Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247718
+// MSRP: $ 59.99
 // DATE: 2025-10-27
 1 [SLD:2331] Sphere of Safety [foil]
 1 [SLD:2332] Miscast [foil]

@@ -1,5 +1,6 @@
 // NAME: Teenage Mutant Ninja Turtles: The Mighty Mutanimals Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250001
+// MSRP: $ 39.99
 // DATE: 2026-03-03
 1 [SLD:2362] Deepglow Skate [foil]
 1 [SLD:2363] Pirated Copy [foil]

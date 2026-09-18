@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Second Breakfast and Beyond Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254156
+// MSRP: $ 39.99
 // DATE: 2026-08-18
 1 [SLD:2545] Food [foil] [token]
 1 [SLD:2546] Food [foil] [token]

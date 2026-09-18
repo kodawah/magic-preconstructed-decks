@@ -1,5 +1,6 @@
 // NAME: Happy Little Gathering Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/614998
+// MSRP: $ 39.99
 // DATE: 2021-03-15
 1 [SLD:100] Plains [foil]
 1 [SLD:101] Plains [foil]

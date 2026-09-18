@@ -1,5 +1,6 @@
 // NAME: Uncharted
 // SOURCE: https://secretlair.wizards.com/us/product/1246550
+// MSRP: $ 39.99
 // DATE: 2025-11-06
 1 [SLD:2216] Nathan Drake, Treasure Hunter
 1 [SLD:2217] Midnight Clock

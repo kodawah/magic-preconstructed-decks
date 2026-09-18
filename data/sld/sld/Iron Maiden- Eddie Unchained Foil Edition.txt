@@ -1,5 +1,6 @@
 // NAME: Iron Maiden: Eddie Unchained Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247704
+// MSRP: $ 39.99
 // DATE: 2025-10-27
 1 [SLD:2181] Bruvac the Grandiloquent [foil]
 1 [SLD:2182] Windfall [foil]

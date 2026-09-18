@@ -1,5 +1,6 @@
 // NAME: Monster Anatomy 101 Foil Etched Edition
 // SOURCE: https://secretlair.wizards.com/us/product/687516
+// MSRP: $ 39.99
 // DATE: 2022-01-28
 // DISPLAY: Also contains 1 of 18 possible foil Jumpstart basic lands [SLD:540-579]. Has a 5% chance to include either a foil Blueprint card [SLD:603-607] or a foil [SLD:596] Persistent Petitioners
 1 [SLD:316] Fleet Swallower [foil] [etched]

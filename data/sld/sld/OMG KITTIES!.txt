@@ -1,5 +1,6 @@
 // NAME: OMG KITTIES!
 // SOURCE: https://secretlair.wizards.com/us/product/594789
+// MSRP: $ 39.99
 // DATE: 2019-12-09
 1 [SLD:22] Leonin Warleader [foil]
 1 [SLD:23] Regal Caracal [foil]

@@ -1,5 +1,6 @@
 // NAME: Featuring: Imiri Sakabashira
 // SOURCE: https://secretlair.wizards.com/us/product/1245653
+// MSRP: $ 29.99
 // DATE: 2025-06-10
 1 [SLD:2028] Consecrated Sphinx
 1 [SLD:2029] Resculpt

@@ -1,5 +1,6 @@
 // NAME: Featuring: Stan Sakai Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249997
+// MSRP: $ 39.99
 // DATE: 2026-03-03
 1 [SLD:2377] Baylen, the Haymaker [foil]
 1 [SLD:2378] Felidar Retreat [foil]

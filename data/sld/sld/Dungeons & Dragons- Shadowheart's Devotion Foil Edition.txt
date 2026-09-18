@@ -1,5 +1,6 @@
 // NAME: Dungeons & Dragons: Shadowheart's Devotion Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249721
+// MSRP: $ 39.99
 // DATE: 2026-03-02
 1 [SLD:2483] Shadowheart, Dark Justiciar [foil]
 1 [SLD:2484] Beseech the Queen [foil]

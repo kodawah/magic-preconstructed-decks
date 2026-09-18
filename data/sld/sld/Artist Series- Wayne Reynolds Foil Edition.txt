@@ -1,5 +1,6 @@
 // NAME: Artist Series: Wayne Reynolds Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/724657
+// MSRP: $ 39.99
 // DATE: 2022-08-05
 1 [SLD:461] Sram, Senior Edificer [foil]
 1 [SLD:462] Balthor the Defiled [foil]

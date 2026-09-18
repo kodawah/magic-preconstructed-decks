@@ -1,5 +1,6 @@
 // NAME: Stranger Things
 // SOURCE: https://secretlair.wizards.com/us/product/687521
+// MSRP: $ 39.99
 // DATE: 2022-01-28
 1 [SLD:340] Arvinox, the Mind Flail
 1 [SLD:341] Sophina, Spearsage Deserter

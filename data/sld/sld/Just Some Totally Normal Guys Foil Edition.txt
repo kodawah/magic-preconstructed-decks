@@ -1,5 +1,6 @@
 // NAME: Just Some Totally Normal Guys Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/724661
+// MSRP: $ 39.99
 // DATE: 2022-08-05
 // DISPLAY: Also includes one foil extended art sliver: [SLD:618] Diffusion Sliver, [SLD:650] Manaweft Sliver, or [SLD:652] Might Sliver
 1 [SLD:1075] Void Winnower [foil]

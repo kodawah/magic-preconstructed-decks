@@ -1,5 +1,6 @@
 // NAME: Marvel's Hulk: SMASH!
 // SOURCE: https://secretlair.wizards.com/us/product/1252791
+// MSRP: $ 29.99
 // DATE: 2026-09-01
 1 [SLD:2595] Anger
 1 [SLD:2596] Gratuitous Violence

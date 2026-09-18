@@ -1,5 +1,6 @@
 // NAME: Blood Bowl Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/771997
+// MSRP: $ 39.99
 // DATE: 2022-12-05
 1 [SLD:1035] Approach of the Second Sun [foil]
 1 [SLD:1036] Rewind [foil]

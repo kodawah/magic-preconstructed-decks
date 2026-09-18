@@ -1,5 +1,6 @@
 // NAME: Jurassic World: Life Breaks Free
 // SOURCE: https://secretlair.wizards.com/us/product/879325
+// MSRP: $ 29.99
 // DATE: 2023-12-05
 1 [SLD:1389] Etali, Primal Storm
 1 [SLD:1390] Rampaging Ferocidon

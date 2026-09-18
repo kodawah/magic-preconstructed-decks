@@ -1,5 +1,6 @@
 // NAME: My Little Pony: Friendship is Magic Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250418
+// MSRP: $ 39.99
 // DATE: 2026-05-12
 1 [SLD:2534] Generous Gift [foil]
 1 [SLD:2535] Reconnaissance Mission [foil]

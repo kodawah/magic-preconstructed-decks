@@ -1,5 +1,6 @@
 // NAME: Showcase: Bloomburrow
 // SOURCE: https://secretlair.wizards.com/us/product/1002033
+// MSRP: $ 29.99
 // DATE: 2024-07-30
 1 [SLD:1698] Sorin Markov
 1 [SLD:1699] Huatli, Radiant Champion

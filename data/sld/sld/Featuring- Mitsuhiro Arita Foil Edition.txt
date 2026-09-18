@@ -1,5 +1,6 @@
 // NAME: Featuring: Mitsuhiro Arita Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151115
+// MSRP: $ 39.99
 // DATE: 2025-02-11
 1 [SLD:1877] Light-Paws, Emperor's Voice [foil]
 1 [SLD:1878] Murktide Regent [foil]

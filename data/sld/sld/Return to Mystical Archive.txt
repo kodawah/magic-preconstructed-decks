@@ -1,5 +1,6 @@
 // NAME: Return to Mystical Archive
 // SOURCE: https://secretlair.wizards.com/us/product/1250415
+// MSRP: $ 29.99
 // DATE: 2026-05-12
 1 [SLD:2387] Duty Beyond Death
 1 [SLD:2388] Spell Pierce

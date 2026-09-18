@@ -1,5 +1,6 @@
 // NAME: Tales of the Time Stoppers
 // SOURCE: https://secretlair.wizards.com/us/product/879329
+// MSRP: $ 29.99
 // DATE: 2023-12-05
 1 [SLD:1497] Beacon of Tomorrows
 1 [SLD:1498] Nexus of Fate

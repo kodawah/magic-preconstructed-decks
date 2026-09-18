@@ -1,5 +1,6 @@
 // NAME: The Tokyo Lands Foil Etched Edition
 // SOURCE: https://secretlair.wizards.com/us/product/762465
+// MSRP: $ 39.99
 // DATE: 2022-09-13
 // DISPLAY: Also includes one foil Jumpstart basic land [SLD:540-579].
 1 [SLD:46] Plains [foil] [etched]

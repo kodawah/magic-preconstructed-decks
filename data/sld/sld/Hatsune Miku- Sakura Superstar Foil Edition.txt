@@ -1,5 +1,6 @@
 // NAME: Hatsune Miku: Sakura Superstar Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/965727
+// MSRP: $ 39.99
 // DATE: 2024-05-30
 1 [SLD:1587★] Shelter [foil]
 1 [SLD:1594★] Chandra's Ignition [foil]

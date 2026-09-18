@@ -1,5 +1,6 @@
 // NAME: SpongeBob SquarePants: Lands Under the Sea Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151488
+// MSRP: $ 39.98
 // DATE: 2025-03-25
 2 [SLD:1939] Plains [foil]
 2 [SLD:1940] Island [foil]

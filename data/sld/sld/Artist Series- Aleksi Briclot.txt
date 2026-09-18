@@ -1,5 +1,6 @@
 // NAME: Artist Series: Aleksi Briclot
 // SOURCE: https://secretlair.wizards.com/us/product/810228
+// MSRP: $ 29.99
 // DATE: 2022-12-19
 1 [SLD:1151] Thought-Knot Seer
 1 [SLD:1152] Inquisition of Kozilek

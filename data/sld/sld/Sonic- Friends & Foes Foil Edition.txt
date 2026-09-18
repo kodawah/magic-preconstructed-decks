@@ -1,5 +1,6 @@
 // NAME: Sonic: Friends & Foes Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161305
+// MSRP: $ 49.99
 // DATE: 2025-08-08
 1 [SLD:2081] Super State [foil]
 1 [SLD:2082] Knuckles the Echidna [foil]

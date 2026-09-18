@@ -1,5 +1,6 @@
 // NAME: Extra Life 2020
 // SOURCE: https://secretlair.wizards.com/us/product/614992
+// MSRP: $ 59.99
 // DATE: 2020-11-06
 1 [SLD:164] Teferi's Protection [foil]
 1 [SLD:165] Consecrated Sphinx [foil]

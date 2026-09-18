@@ -1,5 +1,6 @@
 // NAME: Teenage Mutant Ninja Turtles: The Last Ronin Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249999
+// MSRP: $ 39.99
 // DATE: 2026-03-03
 1 [SLD:2372] Settle the Wreckage [foil]
 1 [SLD:2373] Mental Misstep [foil]

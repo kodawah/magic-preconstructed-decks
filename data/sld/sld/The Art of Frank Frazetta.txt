@@ -1,5 +1,6 @@
 // NAME: The Art of Frank Frazetta
 // SOURCE: https://secretlair.wizards.com/us/product/810214
+// MSRP: $ 29.99
 // DATE: 2022-12-19
 1 [SLD:1168] Field Marshal
 1 [SLD:1169] Temporal Manipulation

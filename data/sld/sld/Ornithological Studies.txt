@@ -1,5 +1,6 @@
 // NAME: Ornithological Studies
 // SOURCE: https://secretlair.wizards.com/us/product/608498
+// MSRP: $ 29.99
 // DATE: 2020-06-09
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:502] Ugin, [SLD:511] Ob Nixilis, or [SLD:522] Nicol Bolas
 1 [SLD:91] Swan Song

@@ -1,5 +1,6 @@
 // NAME: Garfield: Our Only Thought is to Entertain You Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1252565
+// MSRP: $ 39.99
 // DATE: 2026-06-16
 1 [SLD:2673] It That Betrays [foil]
 1 [SLD:2674] Maddening Cacophony [foil]

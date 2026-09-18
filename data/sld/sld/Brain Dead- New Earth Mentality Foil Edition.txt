@@ -1,5 +1,6 @@
 // NAME: Brain Dead: New Earth Mentality Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250032
+// MSRP: $ 39.99
 // DATE: 2026-02-24
 1 [SLD:2514] Mirror Entity [foil]
 1 [SLD:2515] Jace's Archivist [foil]

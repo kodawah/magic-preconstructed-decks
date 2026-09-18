@@ -1,5 +1,6 @@
 // NAME: Fblthp: Completely, Utterly, Totally Lost
 // SOURCE: https://secretlair.wizards.com/us/product/696659
+// MSRP: $ 29.99
 // DATE: 2022-05-06
 1 [SLD:226] Path to Exile
 1 [SLD:227] Well of Lost Dreams

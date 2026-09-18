@@ -1,5 +1,6 @@
 // NAME: The Last of Us Part I
 // SOURCE: https://secretlair.wizards.com/us/product/1246546
+// MSRP: $ 39.99
 // DATE: 2025-11-06
 1 [SLD:2197] Ellie, Brick Master
 1 [SLD:2198] Joel, Resolute Survivor

@@ -1,5 +1,6 @@
 // NAME: PixelSnowLands.jpg Foil Etched Edition
 // SOURCE: https://secretlair.wizards.com/us/product/696664
+// MSRP: $ 39.99
 // DATE: 2022-05-06
 // DISPLAY: Also contains 1 of 21 possible foil Jumpstart basic lands. Has a 5% chance to include either a foil Blueprint card [SLD:603-607] or a foil [SLD:595] Persistent Petitioners
 1 [SLD:325] Snow-Covered Plains [foil] [etched]

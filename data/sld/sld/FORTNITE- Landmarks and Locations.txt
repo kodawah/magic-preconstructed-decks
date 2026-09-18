@@ -1,5 +1,6 @@
 // NAME: FORTNITE: Landmarks and Locations
 // SOURCE: https://secretlair.wizards.com/us/product/763880
+// MSRP: $ 29.99
 // DATE: 2022-09-02
 1 [SLD:448] Plains
 1 [SLD:449] Island

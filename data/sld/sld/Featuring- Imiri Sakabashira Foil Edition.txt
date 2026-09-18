@@ -1,5 +1,6 @@
 // NAME: Featuring: Imiri Sakabashira Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245652
+// MSRP: $ 39.99
 // DATE: 2025-06-10
 1 [SLD:2028] Consecrated Sphinx [foil]
 1 [SLD:2029] Resculpt [foil]

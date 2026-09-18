@@ -1,5 +1,6 @@
 // NAME: Post Malone: The Lands Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/772016
+// MSRP: $ 39.99
 // DATE: 2022-12-05
 1 [SLD:1190] Plains [foil]
 1 [SLD:1191] Island [foil]

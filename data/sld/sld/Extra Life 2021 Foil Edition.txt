@@ -1,5 +1,6 @@
 // NAME: Extra Life 2021 Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/694982
+// MSRP: $ 49.99
 // DATE: 2022-01-28
 1 [SLD:373] Mulldrifter [foil]
 1 [SLD:374] Mulldrifter [foil]

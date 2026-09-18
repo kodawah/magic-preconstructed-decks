@@ -1,5 +1,6 @@
 // NAME: Oishii! Tokens オイシイ！ トークン Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151224
+// MSRP: $ 19.99
 // DATE: 2025-03-27
 1 [SLD:2010] Food [foil] [token]
 1 [SLD:2011] Food [foil] [token]

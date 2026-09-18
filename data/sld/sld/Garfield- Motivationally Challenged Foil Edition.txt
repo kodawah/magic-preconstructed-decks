@@ -1,5 +1,6 @@
 // NAME: Garfield: Motivationally Challenged Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1252561
+// MSRP: $ 39.99
 // DATE: 2026-06-16
 1 [SLD:2668] Rin and Seri, Inseparable [foil]
 1 [SLD:2669] Orim's Chant [foil]

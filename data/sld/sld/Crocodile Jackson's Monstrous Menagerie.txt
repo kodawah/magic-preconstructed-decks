@@ -1,5 +1,6 @@
 // NAME: Crocodile Jackson's Monstrous Menagerie
 // SOURCE: https://secretlair.wizards.com/us/product/696661
+// MSRP: $ 29.99
 // DATE: 2022-05-06
 1 [SLD:305] Ravenous Chupacabra
 1 [SLD:306] Managorger Hydra

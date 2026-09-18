@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Over the Edge of the Wild Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254158
+// MSRP: $ 39.99
 // DATE: 2026-08-18
 1 [SLD:2552] Cloudshift [foil]
 1 [SLD:2553] Tocasia's Welcome [foil]

@@ -1,5 +1,6 @@
 // NAME: Outlaw Anthology Vol. 1: Rebellious Renegades
 // SOURCE: https://secretlair.wizards.com/us/product/965738
+// MSRP: $ 29.99
 // DATE: 2024-05-30
 1 [SLD:1619] Tezzeret the Seeker
 1 [SLD:1620] Griselbrand

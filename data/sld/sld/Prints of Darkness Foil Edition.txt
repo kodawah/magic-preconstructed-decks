@@ -1,5 +1,6 @@
 // NAME: Prints of Darkness Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1001717
+// MSRP: $ 39.99
 // DATE: 2024-07-10
 1 [SLD:1713] Dictate of Erebos [foil]
 1 [SLD:1714] Fecundity [foil]

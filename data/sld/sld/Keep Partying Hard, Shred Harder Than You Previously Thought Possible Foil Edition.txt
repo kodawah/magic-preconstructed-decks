@@ -1,5 +1,6 @@
 // NAME: Keep Partying Hard, Shred Harder Than You Previously Thought Possible Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/865791
+// MSRP: $ 39.99
 // DATE: 2023-09-15
 1 [SLD:1199] Tevesh Szat, Doom of Fools [foil]
 1 [SLD:1200] Godo, Bandit Warlord [foil]

@@ -1,5 +1,6 @@
 // NAME: Showcase: Streets of New Capenna Gilded Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/724650
+// MSRP: $ 49.99
 // DATE: 2022-08-05
 // DISPLAY: Also includes one foil extended art sliver card: [SLD:660] Cloudshredder Sliver, [SLD:662] Frenetic Sliver, or [SLD:664] Hibernation Sliver. May include foil [SLD:692] Pilgrim's Eye instead.
 1 [SLD:453] Atraxa, Praetors' Voice [foil]

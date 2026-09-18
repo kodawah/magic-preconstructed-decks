@@ -1,5 +1,6 @@
 // NAME: Hatsune Miku: Winter Diva
 // SOURCE: https://secretlair.wizards.com/us/product/1151104
+// MSRP: $ 29.99
 // DATE: 2025-02-11
 1 [SLD:1586] Giada, Font of Hope
 1 [SLD:1588] Youthful Valkyrie

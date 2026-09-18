@@ -1,5 +1,6 @@
 // NAME: Warhammer Age of Sigmar
 // SOURCE: https://secretlair.wizards.com/us/product/771996
+// MSRP: $ 29.99
 // DATE: 2022-12-05
 1 [SLD:1030] Blind Obedience
 1 [SLD:1031] Danitha Capashen, Paragon

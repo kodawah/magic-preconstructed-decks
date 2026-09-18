@@ -1,4 +1,5 @@
 // NAME: The Strange Sands: Plains Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1016902
+// MSRP: $ 39.99
 // DATE: 2025-01-15
 10 [SLD:1478] Plains [foil]

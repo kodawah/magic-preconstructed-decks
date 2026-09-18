@@ -1,5 +1,6 @@
 // NAME: FINAL FANTASY: Game Over Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245650
+// MSRP: $ 39.99
 // DATE: 2025-06-10
 1 [SLD:1858] Day of Judgment [foil]
 1 [SLD:1859] Temporal Extortion [foil]

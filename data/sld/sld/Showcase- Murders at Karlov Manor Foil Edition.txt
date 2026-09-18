@@ -1,5 +1,6 @@
 // NAME: Showcase: Murders at Karlov Manor Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/924636
+// MSRP: $ 39.99
 // DATE: 2024-02-23
 1 [SLD:1566★] Gonti, Lord of Luxury [foil]
 1 [SLD:1567★] Vilis, Broker of Blood [foil]

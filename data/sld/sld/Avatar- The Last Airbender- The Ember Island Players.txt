@@ -1,5 +1,6 @@
 // NAME: Avatar: The Last Airbender: The Ember Island Players
 // SOURCE: https://secretlair.wizards.com/us/product/1248512
+// MSRP: $ 29.99
 // DATE: 2025-11-18
 1 [SLD:2306] Phantasmal Image
 1 [SLD:2307] Braid of Fire

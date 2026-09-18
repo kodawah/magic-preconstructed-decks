@@ -1,5 +1,6 @@
 // NAME: Artist Series: Volkan Baga
 // SOURCE: https://secretlair.wizards.com/us/product/762468
+// MSRP: $ 29.99
 // DATE: 2022-09-13
 1 [SLD:1001] Elspeth, Knight-Errant
 1 [SLD:1002] Patron Wizard

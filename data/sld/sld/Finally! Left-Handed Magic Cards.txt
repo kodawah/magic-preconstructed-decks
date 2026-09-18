@@ -1,5 +1,6 @@
 // NAME: Finally! Left-Handed Magic Cards
 // SOURCE: https://secretlair.wizards.com/us/product/724660
+// MSRP: $ 29.99
 // DATE: 2022-08-05
 1 [SLD:9995] Garruk, Caller of Beasts
 1 [SLD:9996] Rograkh, Son of Rohgahh

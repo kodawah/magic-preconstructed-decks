@@ -1,5 +1,6 @@
 // NAME: vroooOOOMMMMMM! Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161314
+// MSRP: $ 39.99
 // DATE: 2025-05-13
 1 [SLD:2037] Lava Dart [foil]
 1 [SLD:2038] Monastery Swiftspear [foil]

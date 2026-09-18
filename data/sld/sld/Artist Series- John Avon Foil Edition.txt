@@ -1,5 +1,6 @@
 // NAME: Artist Series: John Avon Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/872686
+// MSRP: $ 39.99
 // DATE: 2023-11-30
 1 [SLD:1160] Emrakul, the Promised End [foil]
 1 [SLD:1161] Serra Angel [foil]

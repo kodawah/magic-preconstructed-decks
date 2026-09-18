@@ -1,5 +1,6 @@
 // NAME: Just Add Milk: Second Helpings
 // SOURCE: https://secretlair.wizards.com/us/product/924631
+// MSRP: $ 29.99
 // DATE: 2024-02-23
 1 [SLD:1541a] Sakashima of a Thousand Faces
 1 [SLD:1542a] Yargle, Glutton of Urborg

@@ -1,5 +1,6 @@
 // NAME: Masters of the Universe: Nyah-ha-ha! Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254732
+// MSRP: $ 39.99
 // DATE: 2026-09-29
 1 [SLD:2773] Tinybones, the Pickpocket [foil]
 1 [SLD:2774] Tasha's Hideous Laughter [foil]

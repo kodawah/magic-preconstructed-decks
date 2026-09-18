@@ -1,5 +1,6 @@
 // NAME: Featuring: Not a Wolf
 // SOURCE: https://secretlair.wizards.com/us/product/1001716
+// MSRP: $ 29.99
 // DATE: 2024-07-10
 1 [SLD:1608a] Avabruck Caretaker
 1 [SLD:1609] Beastmaster Ascension

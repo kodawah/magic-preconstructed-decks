@@ -1,5 +1,6 @@
 // NAME: Nuestra Magia Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245719
+// MSRP: $ 49.99
 // DATE: 2025-06-17
 1 [SLD:2057] Tireless Provisioner [foil]
 1 [SLD:2058] Sylvan Library [foil]

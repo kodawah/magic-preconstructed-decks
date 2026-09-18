@@ -1,5 +1,6 @@
 // NAME: Sonic: Turbo Gear
 // SOURCE: https://secretlair.wizards.com/us/product/1161308
+// MSRP: $ 29.99
 // DATE: 2025-08-08
 1 [SLD:2095] The Reaver Cleaver
 1 [SLD:2096] Swiftfoot Boots

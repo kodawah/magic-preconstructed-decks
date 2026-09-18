@@ -1,5 +1,6 @@
 // NAME: Avatar: The Last Airbender: Everything Changed Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1248505
+// MSRP: $ 39.99
 // DATE: 2025-11-18
 1 [SLD:2287] Torment of Hailfire [foil]
 1 [SLD:2288] Blood Moon [foil]

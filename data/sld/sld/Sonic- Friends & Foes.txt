@@ -1,5 +1,6 @@
 // NAME: Sonic: Friends & Foes
 // SOURCE: https://secretlair.wizards.com/us/product/1161306
+// MSRP: $ 39.99
 // DATE: 2025-08-08
 1 [SLD:2081] Super State
 1 [SLD:2082] Knuckles the Echidna

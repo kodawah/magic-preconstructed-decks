@@ -1,5 +1,6 @@
 // NAME: Buggin' Out
 // SOURCE: https://secretlair.wizards.com/us/product/865800
+// MSRP: $ 29.99
 // DATE: 2023-09-15
 1 [SLD:1414] Eldritch Evolution
 1 [SLD:1415] Giant Adephage

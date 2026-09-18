@@ -1,5 +1,6 @@
 // NAME: SpongeBob SquarePants: Lands Under the Sea
 // SOURCE: https://secretlair.wizards.com/us/product/1151489
+// MSRP: $ 29.98
 // DATE: 2025-03-25
 2 [SLD:1939] Plains
 2 [SLD:1940] Island

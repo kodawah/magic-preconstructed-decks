@@ -1,5 +1,6 @@
 // NAME: Teenage Mutant Ninja Turtles: VHS Villains
 // SOURCE: https://secretlair.wizards.com/us/product/1250004
+// MSRP: $ 29.99
 // DATE: 2026-03-03
 1 [SLD:2367a] Delver of Secrets // Insectile Aberration
 1 [SLD:2368] Higure, the Still Wind

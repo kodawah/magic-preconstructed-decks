@@ -1,5 +1,6 @@
 // NAME: Dreaming Darkly Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247708
+// MSRP: $ 39.99
 // DATE: 2025-10-27
 1 [SLD:2171] Glen Elendra Archmage [foil]
 1 [SLD:2172] Guardian Project [foil]

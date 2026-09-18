@@ -1,5 +1,6 @@
 // NAME: Jurassic World: Life Breaks Free Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/879324
+// MSRP: $ 39.99
 // DATE: 2023-12-05
 1 [SLD:1389★] Etali, Primal Storm [foil]
 1 [SLD:1390★] Rampaging Ferocidon [foil]

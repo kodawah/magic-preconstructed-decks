@@ -1,5 +1,6 @@
 // NAME: KEXP: You Are Not Alone Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161301
+// MSRP: $ 39.99
 // DATE: 2025-05-13
 1 [SLD:2071] Cultural Exchange [foil]
 1 [SLD:2072] Folio of Fancies [foil]

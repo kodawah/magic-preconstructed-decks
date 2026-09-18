@@ -1,5 +1,6 @@
 // NAME: Absolute Annihilation
 // SOURCE: https://secretlair.wizards.com/us/product/865802
+// MSRP: $ 29.99
 // DATE: 2023-09-15
 1 [SLD:1424] Oppression
 1 [SLD:1425] Abrade

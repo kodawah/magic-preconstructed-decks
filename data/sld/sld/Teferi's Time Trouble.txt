@@ -1,5 +1,6 @@
 // NAME: Teferi's Time Trouble
 // SOURCE: https://secretlair.wizards.com/us/product/679509
+// MSRP: $ 29.99
 // DATE: 2021-12-13
 // DISPLAY: Also includes one of: foil [SLD:551] Island or foil [SLD:597] Persistent Petitioners
 1 [SLD:251] Dack Fayden

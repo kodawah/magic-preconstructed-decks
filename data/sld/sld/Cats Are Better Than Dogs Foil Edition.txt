@@ -1,5 +1,6 @@
 // NAME: Cats Are Better Than Dogs Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151169
+// MSRP: $ 39.99
 // DATE: 2025-03-18
 1 [SLD:1916] Escape to the Wilds [foil]
 1 [SLD:1917] Rip Apart [foil]

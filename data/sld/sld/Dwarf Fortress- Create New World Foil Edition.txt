@@ -1,5 +1,6 @@
 // NAME: Dwarf Fortress: Create New World Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250416
+// MSRP: $ 39.99
 // DATE: 2026-05-12
 1 [SLD:2648] Secret Rendezvous [foil]
 1 [SLD:2649] Rune-Scarred Demon [foil]

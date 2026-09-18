@@ -1,5 +1,6 @@
 // NAME: Hatsune Miku: Winter Diva Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151103
+// MSRP: $ 39.99
 // DATE: 2025-02-11
 1 [SLD:1586] Giada, Font of Hope [foil]
 1 [SLD:1588] Youthful Valkyrie [foil]

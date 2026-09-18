@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Desolation Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254162
+// MSRP: $ 39.99
 // DATE: 2026-08-18
 1 [SLD:2562] Defile [foil]
 1 [SLD:2563] Diabolic Intent [foil]

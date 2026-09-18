@@ -1,5 +1,6 @@
 // NAME: Buggin' Out Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/865801
+// MSRP: $ 39.99
 // DATE: 2023-09-15
 1 [SLD:1414] Eldritch Evolution [foil]
 1 [SLD:1415] Giant Adephage [foil]

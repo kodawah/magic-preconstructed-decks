@@ -1,5 +1,6 @@
 // NAME: FORTNITE
 // SOURCE: https://secretlair.wizards.com/us/product/763874
+// MSRP: $ 29.99
 // DATE: 2022-09-02
 1 [SLD:441] Wrath of God
 1 [SLD:442] Dance of Many

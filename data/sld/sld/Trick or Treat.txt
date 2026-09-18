@@ -1,5 +1,6 @@
 // NAME: Trick or Treat
 // SOURCE: https://secretlair.wizards.com/us/product/1247724
+// MSRP: $ 29.99
 // DATE: 2025-10-27
 1 [SLD:2282] Vito, Thorn of the Dusk Rose
 1 [SLD:2283] Satoru Umezawa

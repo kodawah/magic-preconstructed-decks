@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Second Breakfast and Beyond
 // SOURCE: https://secretlair.wizards.com/us/product/1254157
+// MSRP: $ 29.99
 // DATE: 2026-08-18
 1 [SLD:2545] Food [token]
 1 [SLD:2546] Food [token]

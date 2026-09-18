@@ -1,5 +1,6 @@
 // NAME: Showcase: The Lost Caverns of Ixalan
 // SOURCE: https://secretlair.wizards.com/us/product/879335
+// MSRP: $ 29.99
 // DATE: 2023-12-05
 1 [SLD:1409] Captain Lannery Storm
 1 [SLD:1410] Admiral Beckett Brass

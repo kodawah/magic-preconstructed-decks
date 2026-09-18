@@ -1,5 +1,6 @@
 // NAME: Pixel Perfect Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018597
+// MSRP: $ 49.99
 // DATE: 2024-10-15
 1 [SLD:1821] Mana Geyser [foil]
 1 [SLD:1822] Lightning Bolt [foil]

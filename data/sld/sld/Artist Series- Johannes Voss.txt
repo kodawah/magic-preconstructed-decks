@@ -1,5 +1,6 @@
 // NAME: Artist Series: Johannes Voss
 // SOURCE: https://secretlair.wizards.com/us/product/679515
+// MSRP: $ 29.99
 // DATE: 2021-12-13
 // DISPLAY: Has a roughly 7% chance to have a Blueprint artifact card instead of the normal bonus card: [SLD:603-607].
 1 [SLD:278] Sanctum Prelate

@@ -1,5 +1,6 @@
 // NAME: Ghostbusters: The Real Ghostbusters Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018454
+// MSRP: $ 39.99
 // DATE: 2024-10-01
 1 [SLD:1768] Careful Study [foil]
 1 [SLD:1769] Living End [foil]

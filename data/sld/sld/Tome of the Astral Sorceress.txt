@@ -1,5 +1,6 @@
 // NAME: Tome of the Astral Sorceress
 // SOURCE: https://secretlair.wizards.com/us/product/1018463
+// MSRP: $ 29.99
 // DATE: 2024-10-01
 1 [SLD:1718] Back to Basics
 1 [SLD:1719] Preordain

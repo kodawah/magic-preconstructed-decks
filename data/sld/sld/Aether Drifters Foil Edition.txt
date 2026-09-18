@@ -1,5 +1,6 @@
 // NAME: Aether Drifters Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151117
+// MSRP: $ 39.99
 // DATE: 2025-02-11
 1 [SLD:1964a] Parhelion II [foil]
 1 [SLD:1965a] Mechtitan Core [foil]

@@ -1,5 +1,6 @@
 // NAME: Featuring: Gene Luen Yang Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254379
+// MSRP: $ 39.99
 // DATE: 2026-09-01
 1 [SLD:2401] Kibo, Uktabi Prince [foil]
 1 [SLD:2402] Ilharg, the Raze-Boar [foil]

@@ -1,5 +1,6 @@
 // NAME: FORTNITE Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/763871
+// MSRP: $ 39.99
 // DATE: 2022-09-02
 1 [SLD:441] Wrath of God [foil]
 1 [SLD:442] Dance of Many [foil]

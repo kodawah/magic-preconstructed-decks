@@ -1,5 +1,6 @@
 // NAME: Artist Series: Livia Prima
 // SOURCE: https://secretlair.wizards.com/us/product/762460
+// MSRP: $ 29.99
 // DATE: 2022-09-13
 1 [SLD:489] Akroma, Angel of Wrath
 1 [SLD:490] Mikaeus, the Unhallowed

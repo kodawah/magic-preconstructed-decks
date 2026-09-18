@@ -1,5 +1,6 @@
 // NAME: Artist Series: Aleksi Briclot Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/810227
+// MSRP: $ 39.99
 // DATE: 2022-12-19
 1 [SLD:1151] Thought-Knot Seer [foil]
 1 [SLD:1152] Inquisition of Kozilek [foil]

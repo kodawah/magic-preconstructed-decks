@@ -1,5 +1,6 @@
 // NAME: vroooOOOMMMMMM!
 // SOURCE: https://secretlair.wizards.com/us/product/1161316
+// MSRP: $ 29.99
 // DATE: 2025-05-13
 1 [SLD:2037] Lava Dart
 1 [SLD:2038] Monastery Swiftspear

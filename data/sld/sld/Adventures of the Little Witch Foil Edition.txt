@@ -1,5 +1,6 @@
 // NAME: Adventures of the Little Witch Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1107792
+// MSRP: $ 59.99
 // DATE: 2025-04-23
 1 [SLD:1892] Secret Rendezvous [foil]
 1 [SLD:1893] Serenity [foil]

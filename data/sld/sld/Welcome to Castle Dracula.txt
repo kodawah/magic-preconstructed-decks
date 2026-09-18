@@ -1,5 +1,6 @@
 // NAME: Welcome to Castle Dracula
 // SOURCE: https://secretlair.wizards.com/us/product/696655
+// MSRP: $ 29.99
 // DATE: 2022-05-06
 // DISPLAY: Has a roughly 5% to include either a foil Blueprint artifact [SLD:603-607] or foil [SLD:595] Persistent Petitioners instead of the normal bonus card.
 1 [SLD:206] Exquisite Blood

@@ -1,5 +1,6 @@
 // NAME: The Hobbit: Smaug's Spoils Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1254160
+// MSRP: $ 39.99
 // DATE: 2026-08-18
 1 [SLD:2557] Fellwar Stone [foil]
 1 [SLD:2558] Lightning Greaves [foil]

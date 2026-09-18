@@ -1,5 +1,6 @@
 // NAME: Culture Shocks: Grixis
 // SOURCE: https://secretlair.wizards.com/us/product/634222
+// MSRP: $ 29.99
 // DATE: 2021-08-25
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:527] Angrath, [SLD:528] Ashiok, [SLD:531] Kaya, [SLD:522] Nicol Bolas, or [SLD:523] Ral. All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
 1 [SLD:124] Watery Grave

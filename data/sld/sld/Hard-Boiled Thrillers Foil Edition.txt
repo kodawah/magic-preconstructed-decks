@@ -1,5 +1,6 @@
 // NAME: Hard-Boiled Thrillers Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/924634
+// MSRP: $ 39.99
 // DATE: 2024-02-23
 1 [SLD:1575★] Reconnaissance [foil]
 1 [SLD:1576★] Jace, Wielder of Mysteries [foil]

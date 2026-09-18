@@ -1,5 +1,6 @@
 // NAME: Prime Slime
 // SOURCE: https://secretlair.wizards.com/us/product/611544
+// MSRP: $ 29.99
 // DATE: 2020-08-17
 1 [SLD:133] Necrotic Ooze
 1 [SLD:134] Acidic Slime

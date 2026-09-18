@@ -1,5 +1,6 @@
 // NAME: Artist Series: Sam Burley
 // SOURCE: https://secretlair.wizards.com/us/product/811039
+// MSRP: $ 29.99
 // DATE: 2023-04-14
 1 [SLD:1247] Braid of Fire
 1 [SLD:1248] Koth of the Hammer

@@ -1,5 +1,6 @@
 // NAME: Faerie, Faerie, Faerie Rad
 // SOURCE: https://secretlair.wizards.com/us/product/629377
+// MSRP: $ 39.99
 // DATE: 2021-04-13
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:512] Chandra, [SLD:529] Dovin or [SLD:534] Saheeli
 1 [SLD:115] Glen Elendra Archmage [foil]

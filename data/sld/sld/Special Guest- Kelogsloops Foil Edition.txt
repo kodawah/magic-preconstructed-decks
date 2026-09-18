@@ -1,5 +1,6 @@
 // NAME: Special Guest: Kelogsloops Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/762457
+// MSRP: $ 39.99
 // DATE: 2022-09-13
 // DISPLAY: Also includes one of: [SLD:683] Shadowborn Apostle, [SLD:650] Manaweft Sliver, or [SLD:654] Predatory Sliver.
 1 [SLD:406] Mystic Remora [foil]

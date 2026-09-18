@@ -1,5 +1,6 @@
 // NAME: Now on VHS! Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/865797
+// MSRP: $ 39.99
 // DATE: 2023-09-15
 1 [SLD:1368] Rewind [foil]
 1 [SLD:1369] Food Chain [foil]
